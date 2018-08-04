@@ -657,7 +657,7 @@ ul.list-inline {
 	top: 50%;
 	margin-top: -60px;
 	background-color: rgba(255, 255, 255, .2);
-	background-image: url(../banner/arrow-left.png)!important;
+	background-image: url(../arrow-left.png)!important;
 	background-position: center center!important;
 	background-repeat: no-repeat!important;
 	background-size: 33px 60px;
@@ -668,7 +668,7 @@ ul.list-inline {
 	left: -100px
 }
 .carousel-control.right {
-	background-image: url(../img/banner/arrow-right.png)!important;
+	background-image: url(../banner/arrow-right.png)!important;
 	right: -100px
 }
 .header.transp+.carousel .carousel-control {
@@ -2028,7 +2028,7 @@ table, td, th {
 	margin-top: 20px
 }
 .cbp-l-slider-testimonials-wrap {
-	background-image: url(../img/testmonial-bg.png)!important;
+	background-image: url(../testmonial-bg.png)!important;
 	background-size: cover!important
 }
 #mega-slider .carousel-inner>.item>a>img, #mega-slider .carousel-inner>.item>img {
@@ -2978,7 +2978,7 @@ section.clearfix.promotion_area {
 	border-radius: 0
 }
 .pre-loader {
-	background-image: url(../img/pre-loader.gif)
+	background-image: url(../pre-loader.gif)
 }
 .map-widget iframe {
 	max-width: 100%
